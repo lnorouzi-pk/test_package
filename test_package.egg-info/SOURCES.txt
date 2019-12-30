@@ -1,6 +1,5 @@
 MANIFEST.in
 setup.py
-../test_package/test_package/data/tips.csv
 test_package/__init__.py
 test_package/my_class_function.py
 test_package.egg-info/PKG-INFO
