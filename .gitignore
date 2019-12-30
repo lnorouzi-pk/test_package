@@ -1,0 +1,4 @@
+shphinx/_buid
+*.pyc
+.DS_Store
+.idea
